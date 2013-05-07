@@ -1,0 +1,6 @@
+<Alloy>
+	<TabGroup id="tabs">
+		<Require src="first" id="first" />
+		<Require src="second" id="second" />
+	</TabGroup>
+</Alloy>

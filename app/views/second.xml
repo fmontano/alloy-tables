@@ -1,0 +1,9 @@
+<Alloy>
+	<Tab title="Custom Rows" id="secondTable">
+		<Window title="Custom Rows" class="container" id="index">
+			<TableView id="myTable">
+				
+			</TableView>
+		</Window>
+	</Tab>
+</Alloy>

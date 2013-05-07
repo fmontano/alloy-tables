@@ -1,0 +1,9 @@
+<Alloy>
+	<Tab title="Simple Rows" id="firstTable">
+		<Window title="Simple Rows" class="container" id="index">
+			<TableView id="myTable" onClick="tableClicked">
+				
+			</TableView>
+		</Window>
+	</Tab>
+</Alloy>

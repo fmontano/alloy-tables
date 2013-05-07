@@ -1,0 +1,8 @@
+<Alloy>
+	<TableViewRow onClick="rowClicked">
+		<View class="container">
+			<Label id="rowNumber" />
+			<Label id="rowTitle" />
+		</View>
+	</TableViewRow>
+</Alloy>

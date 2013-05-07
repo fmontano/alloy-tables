@@ -1,0 +1,27 @@
+".container": {
+	backgroundColor: "white",
+	height : Ti.UI.SIZE,
+	width : Ti.UI.FILL,
+	layout : "horizontal"
+},
+
+"#rowNumber" : {
+	width : Ti.UI.SIZE,
+	height : Ti.UI.SIZE,
+	left : '10dp',
+	top : 0,
+	color : '#333',
+	font : {
+		fontSize : '32sp',
+		fontWeight : "bold"
+	}
+},
+
+"#rowTitle" : {
+	width : Ti.UI.FILL,
+	height : Ti.UI.SIZE,
+	left : '10dp',
+	font : {
+		fontSize : '14sp'
+	}
+}
